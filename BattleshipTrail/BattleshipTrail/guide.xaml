@@ -1,0 +1,70 @@
+﻿<Page x:Class="BattleshipTrail.guide"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="346" d:DesignWidth="693"
+	Title="guide">
+    <Page.Background>
+        <ImageBrush ImageSource="Images/radar.jpg"/>
+    </Page.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Image Source="Images/button_menu.png" MouseDown="Image_MouseDown" Grid.Row="13" Margin="12,0,13,-1" Grid.ColumnSpan="3" Grid.RowSpan="2" />
+        <TextBlock Grid.Column="6" Grid.ColumnSpan="11" Height="58"  Margin="0,-12,0,0" Name="textBlock2" Text="הוראות"  Width="306" FontSize="45" Foreground="White" TextAlignment="Center" FontWeight="Bold" Grid.RowSpan="2" />
+        <TextBlock Grid.ColumnSpan="13" Grid.Row="2" Height="23"  Margin="25,0,0,0" Name="textBlock1"    Foreground="White" TextAlignment="Right" FontSize="15" Grid.Column="10">   .יש להציב את הצוללות במאונך או במאוזן, ולא באלכסון</TextBlock>
+        <TextBlock Grid.ColumnSpan="18" Grid.Row="3" Height="22"  Name="textBlock3"    Foreground="White" TextAlignment="Right" FontSize="15" Grid.Column="5" Margin="9,0,0,1">	.(אין לחפוף את הצוללות (כלומר, שאחת תהיה מוצבת על השנייה, או צמודה לה</TextBlock>
+        <TextBlock Grid.ColumnSpan="18" Grid.Row="4" Height="20"  Name="textBlock4"   Foreground="White" TextAlignment="Right" FontSize="15" Grid.Column="5" Margin="9,0,0,3">.אין להציב צוללות אחת בסמוך לשנייה, כולל באלכסון</TextBlock>
+        <TextBlock Grid.ColumnSpan="22" Grid.Row="5" Height="26"  Margin="11,0,28,20" Name="textBlock5"    Foreground="White" TextAlignment="Right"  FontSize="15" Grid.RowSpan="2" Grid.Column="2">כל שחקן בתורו "תוקף" את היריב במשבצת מסוימת. לדוגמה משבצת 2,1 - אם פגע או החטיא</TextBlock>
+        <TextBlock Grid.ColumnSpan="23" Grid.Row="6" Height="26"  Name="textBlock6"    Foreground="White" TextAlignment="Right" FontSize="15" Grid.RowSpan="2" Margin="6,0,28,21" Grid.Column="1">.השחקן את הצוללות יאמר לו יריבו, ועל פיו יסמן כך בלוח המעקב אותו שחקן</TextBlock>
+        <TextBlock Grid.ColumnSpan="22" Grid.Row="7" Height="26"  Name="textBlock7"    Foreground="White" TextAlignment="Right" FontSize="15" Grid.RowSpan="2" Margin="5,0,1,21" Grid.Column="1">.לאחר מימוש התור יעבור התור ליריב</TextBlock>
+        <TextBlock Grid.ColumnSpan="21" Grid.Row="7" Height="28"  Margin="0,23,0,19" Name="textBlock8" Foreground="White" TextAlignment="Right" FontSize="15" Grid.RowSpan="3" Grid.Column="2">.בשאר המשבצות עליה משתרעת הצוללת - רק כך "יטביע" אותה</TextBlock>
+        <TextBlock Grid.ColumnSpan="22" Grid.Row="8" Height="26"  Margin="6,21,28,0" Name="textBlock9" Foreground="White" TextAlignment="Right" FontSize="15" Grid.RowSpan="2" Grid.Column="2">.המנצח הוא השחקן אשר "הטביע" את כל צוללות יריבו ראשון</TextBlock>
+    </Grid>
+</Page>

@@ -1,0 +1,61 @@
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.baml
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.baml
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.baml
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.g.cs
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.g.cs
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.g.cs
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\App.g.cs
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail_MarkupCompile.cache
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.g.resources
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.Properties.Resources.resources
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.csproj.GenerateResource.Cache
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.exe
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.pdb
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.exe
+F:\משחק צוללות נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.pdb
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.exe
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.pdb
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.baml
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.baml
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.baml
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.g.cs
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.g.cs
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\App.g.cs
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail_MarkupCompile.cache
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.g.resources
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.Properties.Resources.resources
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.csproj.GenerateResource.Cache
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.exe
+C:\Users\Ort Holon 2\Desktop\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.pdb
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.exe
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.pdb
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.exe
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.pdb
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.baml
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.baml
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.baml
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.g.cs
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.g.cs
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.g.cs
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\App.g.cs
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail_MarkupCompile.cache
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.g.resources
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.Properties.Resources.resources
+E:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.csproj.GenerateResource.Cache
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.exe
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.pdb
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.exe
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\bin\Debug\BattleshipTrail.pdb
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.baml
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.baml
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.baml
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\guide.g.cs
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\MainWindow.g.cs
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\start.g.cs
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\App.g.cs
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail_MarkupCompile.cache
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.g.resources
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.Properties.Resources.resources
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail.csproj.GenerateResource.Cache
+F:\משחק צוללות 15.5.19 נסיונות\BattleshipTrail\BattleshipTrail\obj\x86\Debug\BattleshipTrail_Content.g.cs

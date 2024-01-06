@@ -1,0 +1,34 @@
+﻿<Window x:Class="BattleshipTrail.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/BgImage.PNG"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Name="textBlock1" Text="Battleship" Grid.Column="2" Grid.Row="0" FontFamily="Stencil" FontSize="150" Foreground="#FF3C693C" Background="{x:Null}" TextWrapping="NoWrap" TextTrimming="None" Grid.ColumnSpan="7" Grid.RowSpan="2"  />
+        <Image Source="Images/button_start.png" Stretch="Fill" Grid.Column="5" Grid.Row="2" MouseDown="Image_MouseDown" Margin="118,30,0,0" Grid.ColumnSpan="2"></Image>
+        <Image Source="Images/button_rules.png" Stretch="Fill" Grid.Column="5" Grid.Row="3" MouseDown="Image_MouseDown_1" Grid.ColumnSpan="2" Margin="118,31,1,0"></Image>
+        <Image Source="Images/button_exit.png" Stretch="Fill" Grid.Row="5" MouseDown="Image_MouseDown_2" Margin="12,28,25,12"></Image>
+
+    </Grid>
+</Window>
